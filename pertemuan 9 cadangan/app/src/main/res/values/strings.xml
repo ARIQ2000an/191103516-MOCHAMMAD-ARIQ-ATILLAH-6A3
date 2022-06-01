@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ARIQ Application</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="list">List</string>
+    <string name="delete">Delete</string>
+    <string name="larget_text">LARGE TEXT</string>
+</resources>
